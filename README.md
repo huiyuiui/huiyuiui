@@ -9,7 +9,7 @@ I am now a senior Computer Science student at National Tsing Hua University (NTH
 
 - 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/huiyuiui?tab=repositories)
 
-- 📄 Know about my experiences in [My CV](https://drive.google.com/file/d/1MP5dApbNUNWhWDi4pZZcxJrVKSvqAtUi/view?usp=sharing)
+- 📄 Know more about my experiences in [My CV](https://drive.google.com/file/d/1rxH1Zbv2E87h8hhoBfz9-Q8x9BU0v7HE/view?usp=sharing)
 
 - 🤝 I’m looking for an internship as **Software Engineer**
 
