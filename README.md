@@ -1,11 +1,11 @@
 <h2 align="left">Hi there👋!<br><br>
 My name is Adam Chen. <br><br>
-I am now a senior Computer Science student at National Tsing Hua University (NTHU), with a keen interest in Machine Learning and Computer Vision.
+I am a master's student in Computer Science at National Tsing Hua University (NTHU), focusing on Machine Learning and Computer Vision.
 </h2>
 
 <h3 align="left">💬 About me :</h3>
 
-- 🌱 I’m currently learning **Data Science** and **Computer Vision**
+- 🌱 I am currently conducting research in **Computer Vision** and **Generative AI**
 
 - 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/huiyuiui?tab=repositories)
 
