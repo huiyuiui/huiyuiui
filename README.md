@@ -9,7 +9,7 @@ I am a master's student in Computer Science at National Tsing Hua University (NT
 
 - 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/huiyuiui?tab=repositories)
 
-- 📄 Know more about my experiences in [My CV](https://drive.google.com/file/d/1m-oIfIEBAxqTtHHMUh3O1ZDBIj-d3274/view?usp=sharing)
+- 📄 Know more about my experiences in [My CV](https://drive.google.com/file/d/14OGqR0F7rhBS31ibu7Maag2XOGQw7Kgg/view?usp=sharing)
 
 - 🤝 I’m looking for an internship as **Software Engineer**
 
