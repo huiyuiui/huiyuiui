@@ -11,8 +11,6 @@ I am a master's student in Computer Science at National Tsing Hua University (NT
 
 - 📄 Know more about my experiences in [My CV](https://drive.google.com/file/d/14OGqR0F7rhBS31ibu7Maag2XOGQw7Kgg/view?usp=sharing)
 
-- 🤝 I’m looking for an RDSS internship as a **Software Engineer** or **Firmware Engineer**
-
 <h3 align="left">⚡ What I can do ?</h3>
 
 <div align="left">
